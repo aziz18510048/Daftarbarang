@@ -1,0 +1,2 @@
+# Daftarbarang
+membuat aplikasi CRUD
